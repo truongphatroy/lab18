@@ -43,4 +43,23 @@
     padding: 3px;
     font-size: 14px;
   }
+
+  .back-to-top {
+    position: relative !important;
+    margin-bottom: 0px;
+    padding: 0px !important;
+    text-align: center !important;
+  }
+
+  .footer-section {
+    padding: 12px !important;
+  }
+
+  footer .container {
+    display: flex;
+    flex-direction: column;
+  }
+
+
+
 }
